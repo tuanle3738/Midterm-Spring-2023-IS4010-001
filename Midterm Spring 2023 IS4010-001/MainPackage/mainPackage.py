@@ -12,7 +12,3 @@ for i in range(0, totalPlays):
     else:
         lost = lost + 1
 
-print("Total plays:", totalPlays, 
-      ", won = ", won, 
-      ", lost = ", lost, 
-      "percentage won = ", won / totalPlays)
